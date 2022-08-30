@@ -1,3 +1,3 @@
 # simple_cv
-- [liveDemo](https://github.com/Himadwise/simple_cv.git)
+- [liveDemo](https://himadwise.github.io/simple_cv/)
 - we intially upgrading this project........it's not responsive!
